@@ -3,6 +3,10 @@
 Boto3 is the name of the Python SDK for AWS. It allows you to directly create, update, and delete AWS resources from your Python scripts.
 Boto3 makes it easy to integrate your Python application, library, or script with AWS services including Amazon S3, Amazon EC2, Amazon DynamoDB, and more.
 
+
+Refer to the full documentation - [here](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/quickstart.html)
+
+
 # working with boto3
 
 ## Installation
