@@ -1,0 +1,7 @@
+{
+    "key_name":"rxhxl-key-pair",
+    "ami_id":"ami-0cca134ec43cf708f",
+    "instance_type":"t2.micro",
+    "region_name":"ap-south-1",
+    "ec2_data_path":"./configs/ec2_data.json"
+}
